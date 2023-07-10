@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-SpringWebMVC/src/main/java"/>
+	<classpathentry kind="src" path="01-SpringWebMVC/src/test/java"/>
+	<classpathentry kind="src" path="02Spring-Web-MVC/src/main/java"/>
+	<classpathentry kind="src" path="02Spring-Web-MVC/src/test/java"/>
+	<classpathentry kind="src" path="03Spring-Web-MVC-1/src/main/java"/>
+	<classpathentry kind="src" path="03Spring-Web-MVC-1/src/test/java"/>
+	<classpathentry kind="src" path="Boot01-BasicApp/src/main/java"/>
+	<classpathentry kind="src" path="Boot01-BasicApp/src/test/java"/>
+	<classpathentry kind="src" path="Boot04-BulkLoadingApp/src/main/java"/>
+	<classpathentry kind="src" path="Boot04-BulkLoadingApp/src/test/java"/>
+	<classpathentry kind="src" path="Boot05-ValueAnnotationApp/src/main/java"/>
+	<classpathentry kind="src" path="Boot05-ValueAnnotationApp/src/test/java"/>
+	<classpathentry kind="src" path="Boot06-InjectionAnyTypeforSpringBeanApp/src/main/java"/>
+	<classpathentry kind="src" path="Boot06-InjectionAnyTypeforSpringBeanApp/src/test/java"/>
+	<classpathentry kind="src" path="Boot07-InjectionAnyTypeforSpringBeanAppusingYML/src/main/java"/>
+	<classpathentry kind="src" path="Boot07-InjectionAnyTypeforSpringBeanAppusingYML/src/test/java"/>
+	<classpathentry kind="src" path="BootProj02-DependancyInjection/src/main/java"/>
+	<classpathentry kind="src" path="BootProj02-DependancyInjection/src/test/java"/>
+	<classpathentry kind="src" path="BootProj03-DependancyInjection/BootProj03-DependancyInjection/src/main/java"/>
+	<classpathentry kind="src" path="BootProj03-DependancyInjection/BootProj03-DependancyInjection/src/test/java"/>
+	<classpathentry kind="lib" path="__MACOSX/02Spring-Web-MVC/.mvn/wrapper/._maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/03Spring-Web-MVC-1/.mvn/wrapper/._maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="01-SpringWebMVC/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="02Spring-Web-MVC/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="03Spring-Web-MVC-1/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot01-BasicApp/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot04-BulkLoadingApp/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot05-ValueAnnotationApp/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot06-InjectionAnyTypeforSpringBeanApp/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot07-InjectionAnyTypeforSpringBeanAppusingYML/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BootProj02-DependancyInjection/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BootProj03-DependancyInjection/BootProj03-DependancyInjection/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="01-SpringWebMVC/target/classes"/>
+</classpath>

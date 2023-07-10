@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnoreProperties"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="com.ineuron.model.User"/>
+    <fullyQualifiedTypeName name="com.ineuron.UserRepository"/>
+    <fullyQualifiedTypeName name="in.ineuron.bo.Product"/>
+    <fullyQualifiedTypeName name="in.ineuron.dao.OrderRepository"/>
+    <fullyQualifiedTypeName name="in.ineuron.dao.ProductService"/>
+    <fullyQualifiedTypeName name="in.ineuron.dao.ProductRepository"/>
+    <fullyQualifiedTypeName name="in.ineuron.service.ProductService"/>
+    <fullyQualifiedTypeName name="in.ineuron.model.Product"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/Jun/2023:19:37:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:19:37:49 +0530] "GET /SpringRest-09-ProviderApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:19:37:50 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:19:38:25 +0530] "GET /SpringRest-09-ProviderApp/api/actor/wish HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:19:46:00 +0530] "GET /SpringRest-09-ProviderApp/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:19:46:05 +0530] "GET /SpringRest-09-ProviderApp/api/actor/wish HTTP/1.1" 200 21
